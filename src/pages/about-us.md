@@ -5,7 +5,7 @@ template: page
 ---
 ## Lorem ipsum
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+test test etst
 
 - Lorem ipsum
 - dolor sit amet
